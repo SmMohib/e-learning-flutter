@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "248324705249",
+    "project_id": "fq-olp",
+    "storage_bucket": "fq-olp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:248324705249:android:8b8522fb19dbde064120a0",
+        "android_client_info": {
+          "package_name": "com.example.elearning"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "248324705249-04bdgludotdn3699b4toianrd2mv7imi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJcQEAqHh2nFpgpUt5worqzvceUoxVXPo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "248324705249-04bdgludotdn3699b4toianrd2mv7imi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:248324705249:android:828bf7b8dfcf430d4120a0",
+        "android_client_info": {
+          "package_name": "com.fq.olp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "248324705249-04bdgludotdn3699b4toianrd2mv7imi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJcQEAqHh2nFpgpUt5worqzvceUoxVXPo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "248324705249-04bdgludotdn3699b4toianrd2mv7imi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
